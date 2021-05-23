@@ -20,4 +20,4 @@ while hak > 0:
         print("bilemediniz!")
         print(f"cevap {x} idi.")
         break
-    print(f"kalan hakkınız: {hak}")
+    print(f"kalan hakkınız: {hak}") 
